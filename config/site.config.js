@@ -60,8 +60,8 @@ module.exports = {
       link: 'https://www.facebook.com/profile.php?id=100086476560221',
     },
      {
-      name: 'Email',
-      link: 'tapalesrasheed123@gmail.com',
+      name: 'Telegram',
+      link: 'https://t.me/+JmEki_jGPRBlODQ1',
     },
   ],
 
